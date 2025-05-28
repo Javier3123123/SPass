@@ -33,7 +33,7 @@ python setup.py install
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/SPass.git
+git clone https://github.com/Javier3123123/SPass.git
 cd SPass
 ```
 
